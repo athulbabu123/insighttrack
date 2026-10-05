@@ -257,5 +257,5 @@ The frontend development server will print the local URL where the application c
 
 **Athul Babu**
 
-- GitHub: [athulbabu123](https://github.com/athulbabu123)
+- GitHub: [athulbabu](https://github.com/athulbabu123)
 - LinkedIn: [Athul Babu](https://www.linkedin.com/in/athulbabu123/)
