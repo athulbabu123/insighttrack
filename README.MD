@@ -205,7 +205,6 @@ MONGO_URI=your_mongodb_connection_string
 PORT=5000
 ```
 
-Add any other environment variables required by the application configuration.
 
 ### 4. Start the backend
 
@@ -226,9 +225,7 @@ npm start
 
 The frontend development server will print the local URL where the application can be accessed.
 
-## Screenshots
 
-Screenshots can be added here to show the landing page, user dashboard, transactions, analytics, and admin dashboard.
 
 ## What I learned
 
@@ -247,7 +244,6 @@ Screenshots can be added here to show the landing page, user dashboard, transact
 
 ## Future improvements
 
-- Implement Redux Toolkit for centralized state management
 - Improve authentication and authorization
 - Add advanced financial reports and monthly/yearly summaries
 - Add budget management and financial goals
@@ -256,9 +252,6 @@ Screenshots can be added here to show the landing page, user dashboard, transact
 - Improve responsive design
 - Deploy with a production-ready configuration
 
-## Project status
-
-**Completed personal project.** InsightTrack was developed as a practical full-stack project to gain hands-on experience with the MERN stack, REST APIs, database operations, authentication, and financial data visualization.
 
 ## Author
 
