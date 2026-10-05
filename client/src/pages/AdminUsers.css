@@ -1,0 +1,46 @@
+.user-heading{
+    position: fixed;
+    top: 150px;
+    left: 130px;
+}
+
+.data-div-users{
+    position: fixed;
+    left:120px;
+    top: 220px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+td,th {
+    border-bottom: 1px solid #ddd;
+}
+
+
+table {
+    width: 600px;
+    border: 1px solid #ddd;
+  }
+  
+  tr {
+    height: 70px;
+    width: 600px;
+  }
+
+  td,th {
+    text-align: center;
+    
+  }
+
+tr:hover{
+    background-color: #ffffff;
+}
+
+th {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+#users-table{
+    width: 1370px;
+}

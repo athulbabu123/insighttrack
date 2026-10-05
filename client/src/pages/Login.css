@@ -1,0 +1,44 @@
+.login-page{
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1000px;
+    height: 550px;
+    position: fixed;
+    bottom: 60px;
+    border-radius: 30px;
+    margin-left: 220px;
+    margin-top: 40px;
+    padding-top: 80px;
+}
+
+.form{
+    width:450px;
+    height: 500px;
+    margin-left: 250px;
+}
+
+body{
+    background-color: DodgerBlue;
+}
+
+
+
+.link-text{
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.label .ant-form-item-label > label {
+    color: #fff;
+    font-weight: bold; 
+}
+
+.login-heading{
+    color:  #009970;
+}
+
+.link{
+    color: #d12222;
+}

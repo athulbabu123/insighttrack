@@ -1,0 +1,57 @@
+.register-page{
+    background-image: url('https://media.istockphoto.com/id/1290272178/pt/foto/business-analytics-intelligence-bi-concept-kpi-financial-charts.jpg?s=612x612&w=0&k=20&c=qoT6k1qyG_Aic3pMzgJ31naJ_oECgRzgw-3bKvdyzVE=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1000px;
+    height: 550px;
+    position: fixed;
+    bottom: 60px;
+    border-radius: 30px;
+    margin-left: 220px;
+    margin-top: 40px;
+    padding-top: 110px;
+}
+
+.form{
+    width:450px;
+    height: 500px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+body{
+    background-color: DodgerBlue;
+}
+
+
+
+.link-text{
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+
+.register-label .ant-form-item-label > label {
+    color:DodgerBlue; 
+    font-weight: bold; 
+}
+
+h1{
+    text-align: center;
+}
+
+.register-heading{
+    color:DodgerBlue; 
+}
+
+.link{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.link:hover{
+    color: #000
+}

@@ -1,0 +1,17 @@
+.contact-heading{
+    position: fixed;
+    top: 140px;
+    left: 120px;
+}
+
+#contacts-table{
+    width: 1000px;
+}
+
+.data-div-contacts{
+    position: fixed;
+    left:120px;
+    top: 230px;
+    max-height: 400px;
+    overflow-y: auto;
+}

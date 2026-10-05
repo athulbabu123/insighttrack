@@ -1,0 +1,44 @@
+.admin-login-page{
+    background-image: url('../images/login-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1000px;
+    height: 550px;
+    position: fixed;
+    bottom: 60px;
+    border-radius: 30px;
+    margin-left: 220px;
+    margin-top: 40px;
+    padding-top: 110px;
+}
+
+.form{
+    width:450px;
+    height: 500px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+body{
+    background-color: #adbbda;
+}
+
+
+
+.link-text{
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+#admin-heading{
+    text-align: center;
+    color: red;
+}
+
+.admin-label .ant-form-item-label > label {
+    color: red;
+    font-weight: bold;
+}

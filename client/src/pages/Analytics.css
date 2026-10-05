@@ -1,0 +1,71 @@
+.analytics-welcome{
+    position: fixed;
+    top: 100px;
+}
+
+.pie-chart{
+    position: fixed;
+    top: 260px;
+    left: 100px;
+}
+
+.profit-loss-card{
+    margin-left: 800px;
+    top: 300px;
+    right: 670px;
+    position: fixed;
+}
+
+.chart-and-card{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profit{
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #3f8600;
+}
+
+.loss{
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #cf1322;
+}
+
+.card-title{
+    font-weight: 800;
+}
+
+.heading-title{
+    position: fixed;
+    top: 200px;
+    left: 200px;
+    display: flex;
+}
+
+.result-heading{
+    position: fixed;
+    right: 750px;
+    top: 250px;
+}
+
+.bar-chart{
+    position: fixed;
+    top: 270px;
+    right: 100px;
+}
+
+.bar-heading{
+    position: fixed;
+    top: 200px;
+    right: 200px;
+}
+
+.transaction-heading{
+    position: fixed;
+    left: 590px;
+    top: 150px;
+}

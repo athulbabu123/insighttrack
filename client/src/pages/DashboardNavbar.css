@@ -1,0 +1,27 @@
+.logout-button{
+    background-color: #009970;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+    border: 0;
+}
+
+.logout-button:hover{
+    background-color: #00b383;
+}
+
+.navbar-item{
+    align-items: center;
+}
+
+.user-dashboard{
+    color: #009970;
+}
+
+.homeButton{
+    background: none;
+    border: none;
+}

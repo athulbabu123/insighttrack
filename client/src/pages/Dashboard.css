@@ -1,0 +1,123 @@
+.dashboard-welcome{
+    position: fixed;
+    top: 110px;
+    margin-left: 110px;
+    font-weight: 700;
+}
+
+.filters{
+    width: 1000px;
+    height: 50px;
+    position: fixed;
+    top: 130px;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 20px;
+    display:inline-flex;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.select-filters{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.select-type{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.add-button{
+    margin-top: 40px;
+    position: fixed;
+    right: 110px;
+}
+
+.analytics-btn-user{
+    margin-top: 40px;
+    position: fixed;
+    right: 300px;
+}
+
+.filter-heading{
+    position: fixed;
+    top: 150px;
+    margin-left: 110px;
+    font-weight: 700;
+}
+
+.content{
+    margin-top: 350px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.date-width{
+    width: 150px;
+}
+
+.view-type{
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 130px;
+    height: 60px;
+    align-items: center;
+}
+
+.table-icon{
+    font-size: 40px;
+    color: black;
+}
+
+.chart-icon{
+    font-size: 40px;
+    color: black;
+    margin-left: 15px;
+}
+
+.table-icon:hover{
+    color: rgb(237, 226, 226);
+}
+
+.chart-icon:hover{
+    color: rgb(237, 226, 226);
+}
+
+.table-button{
+    border: none;
+    background: none;
+}
+
+.chart-button{
+    border: none;
+    background: none;
+}
+
+
+
+.data-div-dashboard{
+    position: fixed;
+    left:80px;
+    top: 255px;
+    max-height: 400px; /* Adjust height as needed */
+    overflow-y: auto; /* Enables vertical scrolling */
+}
+
+#dashboard-table{
+    width: 1370px;
+}
+
+.table-container {
+    max-height: 450px; /* Adjust height as needed */
+    overflow-y: auto; /* Enables vertical scrolling */
+}
+
+.no-transactions-message {
+    text-align: center;
+    padding: 20px;
+    color: #f60a0a;
+    font-size: 48px;
+  }
+  
